@@ -1,0 +1,5 @@
+supabase
+requests
+python-slugify
+tqdm
+python-dotenv
